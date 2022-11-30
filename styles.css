@@ -1,0 +1,164 @@
+h1.Ship{
+    text-align:center;
+    color:darkgreen;
+    font-size:4vw;
+}
+
+img.Ship{
+    margin-top:3vw;
+    margin-left:32vw;
+    width:40vw;
+}
+
+button.Ship{
+    display:block;
+    margin-left:85vw;
+    margin-top:4vh;
+    border:bisque;
+    background-color:bisque;
+    width:10vw;
+
+}
+
+p.Ship{
+    margin-top:3vw;
+    font-size:2vw;
+    text-align:center;
+}
+a.Ship{
+    text-decoration: none;
+    color:bisque;
+    font-size:2vw;
+}
+
+body.Ship{
+    background-color:bisque;
+}
+
+h1.Page1{
+    text-align:center;
+    color:cadetblue;
+    font-size:5vw;
+    margin-top:0;
+}
+
+div.Page1{
+    margin-top:4vw;
+    margin-bottom:4vw;
+    margin-left:7vw;
+}
+
+div.Page11{
+    margin-top:4vw;
+    margin-bottom:4vw;
+    margin-left:8vw;
+}
+
+div.Page111{
+    margin-top:4vw;
+    margin-bottom:4vw;
+    margin-left:7vw;
+}
+
+div.Page1111{
+    margin-top:4vw;
+    margin-bottom:4vw;
+}
+
+img.Page1{
+    width:100vw;
+    height:20vh;
+}
+
+footer.Page1{
+    display:block;
+    margin-top:15vw;
+}
+
+body.Page1{
+    background-color:darkgrey;
+}
+
+label.Page1{
+
+    border-style:groove;
+    border-width:0.4vw;
+    margin-right:1vw;
+    font-size:1.8vw;
+}
+
+button.Page1{
+    background-color:darkgray;
+    border:darkgray;
+    margin-left:75vw;
+    width:15vw;
+    Height:5vw;
+}
+
+a.Page1{
+    text-decoration: none;
+    color:darkgray;
+    font-size:3vw;
+}
+
+
+
+input.Page11{
+    margin-top:5vw;
+    width:10vw;
+}
+
+h1.Page2{
+    text-align:center;
+    font-size:4vw;
+    color:darksalmon;
+}
+
+body.Page2{
+    background-color:darkolivegreen;
+}
+
+div.Page2{
+    text-align:center;
+    margin-bottom:2vw;
+    font-size:2vw;
+}
+
+button.Page2{
+    width:10vw;
+    margin-left:80vw;
+    background-color:darkolivegreen;
+    border-color:darkolivegreen;
+    border:darkolivegreen;
+}
+
+a.Page2{
+    font-size:2vw;
+    text-decoration: none;
+    color:darkolivegreen;
+}
+
+h1.Page3{
+    text-align:center;
+    font-size:4vw;
+    color:dimgray;
+}
+
+div.Page3{
+    text-align:center;
+    margin-bottom:3vw;
+    font-size:2vw;
+}
+
+h1.Shipping{
+    text-align:center;
+    font-size:4vw;
+    color:lightblue;
+}
+
+body.Shipping{
+    background-color:lightslategray;
+}
+
+
+
